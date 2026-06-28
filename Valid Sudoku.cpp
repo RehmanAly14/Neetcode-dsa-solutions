@@ -1,3 +1,6 @@
+Time : O(n^2)
+Space : O(3n) -> O(1)
+
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {

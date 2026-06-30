@@ -8,3 +8,4 @@
 - Products of Array Except Self
 - Valid Sudoku
 - Longest Consecutive Sequence
+- Valid Palindrome
